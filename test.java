@@ -10,7 +10,7 @@ public class test {
         System.out.print("n2 sayisini giriniz : ");
         int n2 = input.nextInt();
 
-       int i = 1;
+       int i = n1;
 
        while ( i >= 1) {
            i--;
